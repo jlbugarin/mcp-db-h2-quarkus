@@ -1,0 +1,10 @@
+listame a los propietarios registrados
+cuales son todos los atributos que se tienen guardados de los propietarios
+existe algun propietario repetido?
+puedes crearme un excel con el listado de los propietarios
+cual es el propietario que tiene el id 10
+quien es el dueño del departamento 101
+
+
+
+

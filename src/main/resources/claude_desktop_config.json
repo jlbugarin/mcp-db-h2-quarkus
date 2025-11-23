@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "quarkus-test": {
+      "command": "java",
+      "args": ["-jar", "C:\\mcp-quarkus-buga\\target\\quarkus-app\\quarkus-run.jar"],
+      "env": {
+        "PORT": "8080"
+      }
+    },
+    "quarkus-test-buga": {
+      "command": "java",
+      "args": ["-jar", "C:\\mcp-quarkus-buga\\mcp-db-h2-quarkus\\target\\quarkus-app\\quarkus-run.jar"],
+      "env": {
+        "PORT": "8081"
+      }
+    }
+  }
+}
